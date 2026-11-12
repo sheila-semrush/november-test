@@ -1,5 +1,5 @@
 {
-  "name": "date-picker-test",
+  "name": "november-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,12 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@semcore/base-components": "^16.4.2",
-    "@semcore/date-picker": "^16.2.4",
-    "@semcore/divider": "^16.0.11",
-    "@semcore/icon": "^16.7.4",
-    "@semcore/notice": "^16.1.12",
-    "@semcore/typography": "^16.3.2",
+    "@semcore/icon": "^18.0.1",
+    "@semcore/ui": "^18.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
